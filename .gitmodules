@@ -1,4 +1,0 @@
-[submodule "Loris"]
-	path = Loris
-	url = https://github.com/aces/Loris.git
-	branch = minor
